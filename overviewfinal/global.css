@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-font-awesome-5-free: "Font Awesome 5 Free";
+  --font-radley: Radley;
+  --font-inter: Inter;
+  --font-calligraffitti: Calligraffitti;
+  --font-inherit: inherit;
+  --font-lato: Lato;
+  --font-miriam-libre: "Miriam Libre";
+  --font-petrona: Petrona;
+  --font-font-awesome-6-brands: "Font Awesome 6 Brands";
+
+  /* font sizes */
+  --font-size-13xl-3: 32.3px;
+  --font-size-5xl: 24px;
+  --font-size-7xl-3: 26.3px;
+  --font-size-18xl-5: 37.5px;
+  --font-size-11xl: 30px;
+  --font-size-2xl: 21px;
+  --font-size-14xl-8: 33.8px;
+  --font-size-11xl-8: 30.8px;
+  --font-size-8xl: 27px;
+  --font-size-3xl-5: 22.5px;
+  --font-size-93xl-5: 112.5px;
+  --font-size-22xl-3: 41.3px;
+  --font-size-131xl: 150px;
+  --font-size-168xl-5: 187.5px;
+  --font-size-20xl: 39px;
+  --font-size-15xl-5: 34.5px;
+  --font-size-29xl-8: 48.8px;
+  --font-size-44xl-8: 63.8px;
+  --font-size-65xl: 84px;
+  --font-size-35xl: 54px;
+  --font-size-lg-8: 18.8px;
+  --font-size-9xl-1: 28.1px;
+  --font-size-10xl-3: 29.3px;
+  --font-size-26xl: 45px;
+  --font-size-37xl-3: 56.3px;
+  --font-size-17xl-7: 36.7px;
+  --font-size-10xl-4: 29.4px;
+  --font-size-11xl-9: 30.9px;
+  --font-size-12xl-6: 31.6px;
+
+  /* Colors */
+  --color-silver: #d3c3b6;
+  --color-dimgray-100: #6d5b54;
+  --color-dimgray: #60514b;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray: #453a35;
+  --color-darkslategray-100: #0c3143;
+  --color-snow-100: #fcf9f6;
+  --color-snow: #fcf8f5;
+  --color-rosybrown: #a18471;
+  --color-linen: #f3ebe2;
+  --color-lightgray: #c1d5c3;
+  --color-seagreen: #187632;
+  --color-darkgray: #beb0a3;
+  --color-lightslategray: #6891b1;
+  --color-darkseagreen: #86be96;
+  --color-salmon: #f47474;
+  --color-plum: #b29dcb;
+  --color-gray: #8b8179;
+  --color-gray-100: #0c1d25;
+  --color-gray-200: #190804;
+  --color-gray-300: #010101;
+  --color-gray-400: rgba(255, 255, 255, 0.5);
+  --color-gray-500: rgba(0, 0, 0, 0.48);
+  --color-bisque: #eed8bf;
+
+  /* border radiuses */
+  --br-56xl: 75px;
+  --br-26xl: 45px;
+  --br-18xl-5: 37.5px;
+  --br-mini: 15px;
+  --br-lgi-5: 19.5px;
+  --br-7xs-3: 5.3px;
+}
