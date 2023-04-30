@@ -279,6 +279,11 @@
             box-shadow: 0 0 10px 100px #000 inset;
         }
 
+        .more-details:hover {
+            color: #FCF8F5;
+            text-decoration: none;
+        }
+
 
     </style>
 
@@ -364,6 +369,7 @@
                         <h1 style="font-family: 'Radley', cursive;font-style:italic; font-weight:bold; font-size:900; color: #453A35">{{booksinput[0]['titleComplete']}}</h1>
                         <h4 style="color: #453A35;">written by {{booksinput[0]['author']}}</h3>
                         <p style="padding-top:15px; color: #453A35;">Genres: {{booksinput[0]['genre0']}}, {{booksinput[0]['genre1']}}, {{booksinput[0]['genre2']}}, {{booksinput[0]['genre3']}} </p>
+                        <a href="{{booksinput[0]['url']}}" class="more-details" style="color: #453A35; text-decoration: none;">Click Here for More Details!</a>
                     </div>
                 </div>
                 <div class="overview">
